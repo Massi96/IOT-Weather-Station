@@ -6,7 +6,7 @@ Three components are used:
 * BMP180 (For atmospheric pressure)
 * NodeMCU (For communication with the database)
 
-In addition, measurements are stored and displayed with three php fils:
+In addition, measurements are stored and displayed with three php file:
 
 * add.php (To update the database)
 * connect.php (To connect with the database)
