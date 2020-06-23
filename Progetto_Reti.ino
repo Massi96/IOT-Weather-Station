@@ -8,7 +8,7 @@ const char *wifi_password = ""; //Password della rete
 float valueTemperature; //Variabile per la temperatura
 float valueHumidity; //Variabile per l'umidità
 long valuePressure; //Variabile per la pressione
-const char* server = "192.168.178.36"; //Indirizzo IP del terminale 
+const char* server = ""; //Indirizzo IP del terminale 
 String strURL = ""; //Stringa inviata da arduino dopo la connessione
 
 dht DHT;
