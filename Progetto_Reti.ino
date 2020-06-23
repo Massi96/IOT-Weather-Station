@@ -3,8 +3,8 @@
 #include <BMP180.h>
 #include "dht.h"
 
-const char *wifi_ssid = "FRITZ!Box 7490"; //Nome della rete
-const char *wifi_password = "96049200348625511764"; //Password della rete
+const char *wifi_ssid = ""; //Nome della rete
+const char *wifi_password = ""; //Password della rete
 float valueTemperature; //Variabile per la temperatura
 float valueHumidity; //Variabile per l'umidità
 long valuePressure; //Variabile per la pressione
